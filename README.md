@@ -94,5 +94,4 @@ The final analysis provided Rockbuster’s management with clear insights into *
 
 ### Contact
 *Project by [Daniela Branca]*  
-📧 [dfcanhaesa@gmail.com]  
 💼 [https://www.linkedin.com/in/daniela-branca/]
