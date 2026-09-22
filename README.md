@@ -45,7 +45,7 @@ Each query was documented and visualized to support clear, actionable insights.
 ## Tools & Technologies
 - **PostgreSQL**
 - **pgAdmin 4**
-- **Excel / Tableau (for visualization)**
+- **Excel / Tableau Public (for visualization)**
 - **SQL (PostgreSQL) (CRUD, Joins, Aggregations, CTEs)**
 
 
@@ -76,15 +76,13 @@ Data provided by CareerFoundry and based on Rockbuster’s internal dataset (app
 
 sql-rockbuster-stealth-analysis/
 
-data/ # Raw and cleaned datasets
-
 sql_queries/ # SQL queries in sql format
 
-sql_notes/ # SQL scripts in md format and Data dictionary
+sql_notes/ # SQL scripts in md format
 
 sql_pdfs/ # SQL exercises and answers, EDA in detail
 
-sql_docs/ # Data dictionary, EDR diagram and analysis presentation in pdf format (from tableau public)
+sql_docs/ # Data dictionary, EDR diagram and analysis presentation in pdf format [from Tableau Public] (https://public.tableau.com/app/profile/danielabranca/viz/3_10_17531376523820/TheStory) 
 
 README.md
 
