@@ -1,6 +1,6 @@
 # Comparison: Subqueries vs. Common Table Expressions (CTEs)
 
-## 🔍 Objective
+## Objective
 To compare the performance and readability of subqueries and Common Table Expressions (CTEs) while finding:
 - The top 5 customers by total amount paid.
 - The average total amount paid by these customers.
@@ -8,7 +8,7 @@ To compare the performance and readability of subqueries and Common Table Expres
 
 ---
 
-## 🧩 Method
+## Method
 
 1. **Subqueries version:** Implemented in `queries/03_subqueries.sql`
 2. **CTE version:** Implemented in `queries/04_ctes.sql`
@@ -20,7 +20,7 @@ Both versions perform the same logic:
 
 ---
 
-## 📊 Output (Sample)
+## Output (Sample)
 
 | Country              | All Customer Count | Top Customer Count |
 |----------------------|-------------------:|-------------------:|
@@ -36,7 +36,7 @@ Both versions perform the same logic:
 
 ---
 
-## 💡 Observations
+## Observations
 
 - **Logic parity:** Both versions produce identical results.
 - **Readability:** The CTE is clearer; each logical step is named (`top_5_customers`).
@@ -45,7 +45,7 @@ Both versions perform the same logic:
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 CTEs are preferred for complex analytical SQL because:
 - They make queries modular and readable.
