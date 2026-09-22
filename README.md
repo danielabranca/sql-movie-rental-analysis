@@ -80,9 +80,11 @@ data/ # Raw and cleaned datasets
 
 sql_queries/ # SQL queries in sql format
 
-visuals/ # presentation
-
 sql_notes/ # SQL scripts in md format and Data dictionary
+
+sql_pdfs/ # SQL exercises and answers, EDA in detail
+
+sql_docs/ # Data dictionary, EDR diagram and analysis presentation in pdf format (from tableau public)
 
 README.md
 
