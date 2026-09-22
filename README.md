@@ -82,7 +82,7 @@ sql_notes/ # SQL scripts in md format
 
 sql_pdfs/ # SQL exercises and answers, EDA in detail
 
-sql_docs/ # Data dictionary, EDR diagram and analysis presentation in pdf format [from Tableau Public] (https://public.tableau.com/app/profile/danielabranca/viz/3_10_17531376523820/TheStory) 
+sql_docs/ # Data dictionary, EDR diagram and analysis presentation in pdf format [from Tableau Public](https://public.tableau.com/app/profile/danielabranca/viz/3_10_17531376523820/TheStory) 
 
 README.md
 
