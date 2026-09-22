@@ -78,11 +78,11 @@ sql-rockbuster-stealth-analysis/
 
 data/ # Raw and cleaned datasets
 
-queries/ # SQL scripts and queries
+sql_queries/ # SQL queries in sql format
 
-visuals/ # Visualizations and reports
+visuals/ # presentation
 
-docs/ # Data dictionary and presentation
+sql_notes/ # SQL scripts in md format and Data dictionary
 
 README.md
 
