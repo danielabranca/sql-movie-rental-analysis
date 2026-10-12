@@ -2,7 +2,7 @@
 
 ## Project Background
 
-**Rockbuster Stealth LLC** is a fictional global movie rental company preparing to transition from traditional rental services to an **online video streaming platform**.
+**Rockbuster Stealth LLC** is a global movie rental company preparing to transition from traditional rental services to an **online video streaming platform**.
 
 SQL was used to explore Rockbuster's customer, rental, payment, film and geographic data in order to identify the markets, customer segments and content categories that could inform the company's streaming strategy.
 
